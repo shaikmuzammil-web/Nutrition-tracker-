@@ -208,7 +208,7 @@ public class Example1 {
 		try
 		{
 		Scanner sc=new Scanner(System.in);
-		System.out.println("Enter no.of Users: ");
+		System.out.println("Enter Number of Users: ");
 	    int size=sc.nextInt();
 	    FileReader FR=null;
 		FileWriter FW=null;
@@ -219,7 +219,7 @@ public class Example1 {
 	   do {
 	    
 		System.out.println("Menu");
-		System.out.println("-----------------------------------------------------------------");
+		System.out.println("==========================================================");
 		System.out.println("1...User Profile");
 		System.out.println("2...Daily Food-Intake");
 		System.out.println("3...All user details");
@@ -236,7 +236,7 @@ public class Example1 {
 		case 1:
 			for(int i=0;i<size;i++)
 		    {
-		    	System.out.println("Enter The"+(i+1)+" User Details: ");
+		    	System.out.println("Enter The "+(i+1)+" User Details: ");
 		    	U[i]=new Food_Intake(sc);
 		    }
 		    break;
@@ -277,7 +277,7 @@ public class Example1 {
 			}
 			break;
 		case 5:
-			System.out.println("training excersise is");
+			System.out.println("Training excersise is");
 			N[0].Exercise(FR);
 			break;
 		case 6:
