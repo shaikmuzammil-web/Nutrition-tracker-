@@ -218,8 +218,8 @@ public class Example1 {
 	    String choice;
 	   do {
 	    
-		System.out.println("Menu");
-		System.out.println("-----------------------------------------------------------------");
+		System.out.println("                 Menu                    ");
+		System.out.println("=========================================");
 		System.out.println("1...User Profile");
 		System.out.println("2...Daily Food-Intake");
 		System.out.println("3...All user details");
