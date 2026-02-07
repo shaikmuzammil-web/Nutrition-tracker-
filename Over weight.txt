@@ -1,0 +1,24 @@
+
+
+100 cycling 30mins walking 30mins
+
+200 cycling 30mins walking 60mins 
+
+300 cycling 30mins walking 30mins pushup 30min
+
+400 cycling 30mins walking 60mins pushup 30min
+
+500 cycling 60mins walking 60mins pushup 30min
+
+600 cycling 30mins walking 30mins pushup 60min 
+
+700 cycling 30mins walking 30mins pushup 30min weightlift 30mins
+
+800 cycling 60mins walking 30mins pushup 30min weightlift 30mins
+
+900 cycling 30mins walking 60mins pushup 30min weightlift 30mins
+
+1000 cycling 30mins walking 60mins pushup 60min weightlift 60mins   
+
+
+    
