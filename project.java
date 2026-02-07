@@ -245,7 +245,7 @@ public class project {
 	   do {
 	    choice="no";
 		System.out.println("Menu");
-		System.out.println("-----------------------------------------------------------------");
+		System.out.println("================================================");
 		System.out.println("1...User Profile");
 		System.out.println("2...All user details");
 		System.out.println("3...Get deit Plan");
